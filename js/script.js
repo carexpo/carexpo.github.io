@@ -1,0 +1,1 @@
+$(function(){$(".carousel").carousel({interval:5e3,pause:!1,keyboard:!1})});
